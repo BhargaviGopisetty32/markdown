@@ -54,4 +54,4 @@ _R-Programming_
 
 # How to access Offline Image
 
-<img src="">
+<img src="https://github.com/BhargaviGopisetty32/markdown/blob/master/law-gavel-balance-book_4752x3168.jpg?raw=true" height=100px width=100px>
