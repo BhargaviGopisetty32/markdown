@@ -55,3 +55,46 @@ _R-Programming_
 # How to access Offline Image
 
 <img src="https://github.com/BhargaviGopisetty32/markdown/blob/master/law-gavel-balance-book_4752x3168.jpg?raw=true" height=100px width=100px>
+
+# How to Access Links
+
+[gmail]https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+# Order List
+
+1. DjangoGramework
+2. Flask Framework
+10. cheerpy
+100. Bottle
+
+# Unorder List
+
++ Selinum
+
+- Seaborn
+
+* Numpy
+
+# Backtick
+
+`Git&Github`
+
+# Blockquotes
+
+> Welcome
+
+> Hru
+ 
+> Fine
+
+\* Git& Github\*
+
+# Table Representation
+
+| s.no | Languages | Inventors |
+|------|-----------|-----------|
+| 1    |Python     |Guidovan   |
+| 2    |Java       |James      |
+| 3    |c          |Denis      |
+
+:star:
